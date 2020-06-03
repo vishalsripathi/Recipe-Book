@@ -33,8 +33,8 @@ Here is how shopping list looks like.
 
 
 ## Built With
-Framework - Angular 9
-Restful API - Firebase
+* Framework - Angular 9
+* Restful API - Firebase
 
 ## Authors
 * **Vishal Sripathi** - [vishalsripathi](https://github.com/vishalsripathi)
