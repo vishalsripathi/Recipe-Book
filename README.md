@@ -36,5 +36,5 @@ Here is how shopping list looks like.
 * Framework - Angular 9
 * Restful API - Firebase
 
-## Authors
+## Author
 * **Vishal Sripathi** - [vishalsripathi](https://github.com/vishalsripathi)
