@@ -1,5 +1,5 @@
 # Recipe Book
-This Recipe Book is built using Angular FrameWork and Firebase API. It helps in selecting ingredients for a recipe and add them to shopping list.
+This Recipe Book is built using Angular Framework and Firebase API. It helps in selecting ingredients for a recipe and add them to shopping list.
 
 ## Visit Recipe Book
 * [Click Here](https://recipe-book-91f0d.web.app/)
